@@ -2,7 +2,11 @@ team : Panthers
 
 manager : wa
 
+<<<<<<< HEAD
 coach : encore
+=======
+coach : encore02
+>>>>>>> 4873bc0 (Replace coach to panthers)
 
 members :
 - a
